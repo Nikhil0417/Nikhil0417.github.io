@@ -7,7 +7,7 @@ main:
   - title: "Portfolio"
     url: /my-portfolio/
   - title: "Blog"
-    url: /contact-me/
+    url: /blog/
   - title: "Contact"
     url: /contact-me/
   # - title: "Sample Posts"
