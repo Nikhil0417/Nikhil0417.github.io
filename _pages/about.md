@@ -8,8 +8,8 @@ author_profile: true
 **Nikhil Mettupally**
 ### Email:
 
-* **University email:** sm0143 [at] uah [dot] edu
-* **Alternate email :** snc0417 [at] gmail [dot] com
+* *University email:* sm0143 [at] uah [dot] edu
+* *Alternate email :* snc0417 [at] gmail [dot] com
 
 
 **Address:** \
