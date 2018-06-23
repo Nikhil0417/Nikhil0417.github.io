@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : "Nikhil Mettupally"
-description              : "Graduate Student\nThe University of Alabama in Huntsville"
+description              : "Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Nikhil Mettupally"
   avatar           : "images/Display_Pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Student"
+  bio              : "Graduate Student<br/> Department of Computer Science"
   location         : "Huntsville, AL"
   email            : "sm0143@uah.edu"
   uri              :
