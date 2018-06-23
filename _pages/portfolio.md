@@ -4,7 +4,7 @@ permalink: /my-portfolio/
 title: "Projects done so far"
 author_profile: true
 header:
-  image: "/images/20171112_192621.jpg"
+  image: "/images/20171112_192621.jpg" #needs a better image describing my projects
 ---
 
 {% include base_path %}
@@ -16,4 +16,4 @@ header:
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
-{%endfor %}
+{% endfor %}

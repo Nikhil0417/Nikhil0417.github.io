@@ -1,9 +1,15 @@
 # main links
 main:
+  - title: "Home"
+    url: /contact-me/
+  - title: "Resume"
+    url: /contact-me/
   - title: "Portfolio"
     url: /my-portfolio/
+  - title: "Blog"
+    url: /contact-me/
   - title: "Contact"
-    url: /about/
+    url: /contact-me/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

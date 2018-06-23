@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Nikhil Mettupally"
   avatar           : "images/Display_Pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Student<br/> Department of Computer Science"
+  bio              : "Graduate Student<br/> Department of Computer Science<br/>The University of Alabama in Huntsville"
   location         : "Huntsville, AL"
   email            : "sm0143@uah.edu"
   uri              :
