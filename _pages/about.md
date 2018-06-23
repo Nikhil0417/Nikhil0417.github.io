@@ -3,6 +3,8 @@ layout: single
 title: "Contact"
 permalink: /contact-me/
 author_profile: true
+read_time: false
+share: false
 ---
 
 **Nikhil Mettupally**
