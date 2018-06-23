@@ -2,10 +2,10 @@
 layout: page
 title: "Contact"
 permalink: /contact-me/
+author_profile: true
 header:
   image: "images/20171112_192427.jpg"
 ---
-# Contact
 
 **Nikhil Mettupally**
 ### Email:
@@ -16,6 +16,9 @@ header:
 
 **Address:**
 The Overlook Apartments,
+
 1500 Sparkman Drive NW,
+
 Apt #37A
+
 Huntsville, AL - 35816
