@@ -12,8 +12,8 @@ author_profile: true
 * **Alternate email :** snc0417 [at] gmail [dot] com
 
 
-**Address:**\
-The Overlook Apartments,\
-1500 Sparkman Drive NW,\
-Apt #37A\
+**Address:** \
+The Overlook Apartments, \
+1500 Sparkman Drive NW, \
+Apt #37A \
 Huntsville, AL - 35816
