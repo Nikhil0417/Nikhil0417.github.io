@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikhil"
+title                    : "Nikhil .M"
 title_separator          : "-"
-name                     : "Norman Cook"
+name                     : "Nikhil Mettupally"
 description              : "Portfolio"
 url                      : "https://nikhil0417.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
