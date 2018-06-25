@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /contact-me/
   - title: "Resume"
-    url: /contact-me/
+    url: https://drive.google.com/drive/u/2/folders/19G0ewZBK29YPlbHqEDL2q_mq_2PYoqNi
   - title: "Portfolio"
     url: /my-portfolio/
   - title: "Blog"
