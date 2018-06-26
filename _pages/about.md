@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contact"
-permalink: /contact-me/
+permalink: contact-me/
 author_profile: true
 read_time: false
 share: false
