@@ -5,13 +5,13 @@ main:
   - title: "Resume"
     url: https://drive.google.com/file/d/1Ed1bQsMo9yiSwSeblAtL89A0ubwWj1He/view?usp=sharing
   - title: "Portfolio"
-    url: /my-portfolio/
+    url: my-portfolio/
   - title: "Photography"
-    url: /Photography/
+    url: photography/
   - title: "Blog"
-    url: /blog/
+    url: blog/
   - title: "Contact"
-    url: /contact-me/
+    url: contact-me/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
