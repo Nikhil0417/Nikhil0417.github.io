@@ -6,6 +6,8 @@ main:
     url: https://drive.google.com/file/d/1Ed1bQsMo9yiSwSeblAtL89A0ubwWj1He/view?usp=sharing
   - title: "Portfolio"
     url: /my-portfolio/
+  - title: "Photography"
+    url: /Photography/
   - title: "Blog"
     url: /blog/
   - title: "Contact"
