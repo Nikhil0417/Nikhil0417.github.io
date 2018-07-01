@@ -14,3 +14,6 @@ gallery:
     title: "Image 2 title caption"
 ---
 I have a great passion for capturing pictures. You can find some of the pictures that I clicked from various stances of my life.
+
+![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_0985.jpg)
+![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_1000.jpg)
