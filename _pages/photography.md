@@ -15,5 +15,17 @@ gallery:
 ---
 I have a great passion for capturing pictures. You can find some of the pictures that I clicked from various stances of my life.
 
-![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_0985.jpg)
-![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_1000.jpg)
+<!-- ![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_0985.jpg)
+![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_1000.jpg) -->
+
+<figure>
+  <img
+  src="/images/photography/DSC_0985.jpg"
+  alt="An awesome picture">
+</figure>
+
+<figure>
+  <img
+  src="/images/photography/DSC_1000.jpg"
+  alt="Another awesome picture">
+</figure>
