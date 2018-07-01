@@ -22,10 +22,11 @@ I have a great passion for capturing pictures. You can find some of the pictures
   <img
   src="/images/photography/DSC_0985.jpg"
   alt="An awesome picture">
-</figure>
-
-<figure>
   <img
   src="/images/photography/DSC_1000.jpg"
   alt="Another awesome picture">
 </figure>
+
+<!-- <figure>
+
+</figure> -->
