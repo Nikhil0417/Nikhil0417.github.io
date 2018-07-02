@@ -16,7 +16,7 @@ I have a great passion for capturing pictures. You can find some of the pictures
 
 .column {
     float: left;
-    width: 33.33%;
+    width: 50%;
     padding: 5px;
 }
 
@@ -38,10 +38,10 @@ I have a great passion for capturing pictures. You can find some of the pictures
     <img src="/images/photography/DSC_1004.jpg" alt="House" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/photography/DSC_0984.jpg" alt="House" style="width:100%">
+    <img src="/images/photography/DSC_0984.jpg" alt="Glasses" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/photography/DSC_0987.jpg" alt="House" style="width:100%">
+    <img src="/images/photography/DSC_0987.jpg" alt="Skull" style="width:100%">
 </div>
 
 <!-- gallery:
