@@ -9,6 +9,24 @@ I have a great passion for capturing pictures. You can find some of the pictures
 <!-- ![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_0985.jpg)
 ![alt]({{ https://nikhil0417.github.io/ }}/images/photography/DSC_1000.jpg) -->
 
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
 <div class="row">
   <div class="column">
     <img src="/images/photography/DSC_0985.jpg" alt="Globe" style="width:100%">
