@@ -37,6 +37,11 @@ I have a great passion for capturing pictures. You can find some of the pictures
   <div class="column">
     <img src="/images/photography/DSC_1004.jpg" alt="House" style="width:100%">
   </div>
+  <div class="column">
+    <img src="/images/photography/DSC_0984.jpg" alt="House" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/photography/DSC_0987.jpg" alt="House" style="width:100%">
 </div>
 
 <!-- gallery:
