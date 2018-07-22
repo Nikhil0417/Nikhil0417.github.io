@@ -12,6 +12,8 @@ main:
     url: blog/
   - title: "Contact"
     url: contact-me/
+  - title: "New portfolio"
+    url: portfolio/index.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
