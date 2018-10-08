@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: home/
 title: Welcome
 tags: [nikhil, mettupally, home, uah, machine learning, computer vision, data science, deep learning, graduate]
 comments: false
