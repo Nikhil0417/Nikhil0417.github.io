@@ -140,7 +140,7 @@ I had completed my undergraduate studies from Department of Electrical and Elect
     <tr>
         <td>
             <a href="https://www.uah.edu/">
-            <img src="/images/UAH_primary.png"></a>
+            <img src="/images/UAH_blueblk.png"></a>
         </td>
         <td>
             <a href="https://networks.nokia.com/">
@@ -148,13 +148,14 @@ I had completed my undergraduate studies from Department of Electrical and Elect
         </td>
         <td>
             <a href="http://www.bits-pilani.ac.in/">
-            <img src="/images/BITS_Pilani-Logo.png"></a> <!--add logos in the images folder-->
+            <img src="/images/bits_pilani.jpeg"></a> <!--add logos in the images folder-->
         </td>
-    </tr>
+    <!--/tr-->
     <tr>
         <td>University of Alabama in Huntsville<br>2016-present</td>
         <td>NOKIA<br>2015-2016</td>
         <td>BITS Pilani<br>2011-2015</td>
+    </tr>
     </tr>
     <!-- </tr>
         <td>
