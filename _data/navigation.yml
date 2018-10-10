@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: home/
   - title: "Resume"
-    url: https://drive.google.com/file/d/1Ed1bQsMo9yiSwSeblAtL89A0ubwWj1He/view?usp=sharing
+    url: resume/
   - title: "Portfolio"
     url: my-portfolio/
   - title: "Photography"
