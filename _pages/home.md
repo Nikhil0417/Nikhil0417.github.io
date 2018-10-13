@@ -30,22 +30,26 @@ I had completed my undergraduate studies from Department of Electrical and Elect
     <col width="85%">
     <tr>
         <td valign="top"><strong>[September 2018]</strong></td>
+        <td>My poster on <a href="https://cdm16608.contentdm.oclc.org/digital/collection/p16608coll24/id/313/rec/1">Comprehensive Parking Study at the University of  Alabama in Huntsville using Airborne sensors</a>
+        secured second place award in the Graduate Master's division at <a    href="https://www.uah.edu/cpu2al/12950">STOH, 2018</a>
+        </td>
+        <td valign="top"><strong>[September 2018]</strong></td>
         <td>My poster on <a href="https://cdm16608.contentdm.oclc.org/digital/collection/p16608coll24/id/313/rec/1">Comprehensive Parking Study at the University of Alabama in Huntsville using Airborne sensors</a>
         secured second place award in the Graduate Master's division at <a href="https://www.uah.edu/cpu2al/12950">STOH, 2018</a>
         </td>
-    </tr>
-    <tr>
+    <!-- </tr>
+    <tr> -->
         <td valign="top"><strong>[April 2018]</strong></td>
         <td>My poster on <a href="https://cdm16608.contentdm.oclc.org/digital/collection/p16608coll24/id/313/rec/1">Comprehensive Parking Study at the University of Alabama in Huntsville using Airborne sensors</a> secured second place award in the Graduate Master's division at <a href="https://www.uah.edu/news/research/outstanding-student-researchers-recognized-at-uah-research-horizons-day">4th Annual Research Horizon Day, UAH</a>
         </td>
-    </tr>
-    <tr>
+    <!-- </tr>
+    <tr> -->
         <td valign="top"><strong>[March 2017]</strong></td>
         <td>Checkout my latest poster, <a href="https://cdm16608.contentdm.oclc.org/digital/collection/p16608coll24/id/313/rec/1">Comprehensive Parking Study at the University of Alabama in Huntsville using Airborne sensors</a>.
         <!-- Github code available <a href="https://github.com/batra-mlp-lab/lang-emerge">here</a> -->
         </td>
-    </tr>
-    <tr>
+    <!-- </tr>
+    <tr> -->
         <td valign="top"><strong>[Jan 2018]</strong></td>
         <td>I was awarded the Graduate teaching Assistantship in the <a href='https://www.uah.edu/science/departments/computer-science'>Computer Science Department</a>
         </td>
@@ -150,13 +154,13 @@ I had completed my undergraduate studies from Department of Electrical and Elect
             <a href="http://www.bits-pilani.ac.in/">
             <img src="/images/bits_pilani.jpeg"></a> <!--add logos in the images folder-->
         </td>
-    <!--/tr-->
+    </tr>
     <tr>
         <td>University of Alabama in Huntsville<br>2016-present</td>
         <td>NOKIA<br>2015-2016</td>
         <td>BITS Pilani<br>2011-2015</td>
     </tr>
-    </tr>
+    <!-- </tr> -->
     <!-- </tr>
         <td>
             <a href="https://www.snapchat.com/">
