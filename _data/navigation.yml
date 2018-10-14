@@ -5,7 +5,7 @@ main:
   - title: "Resume"
     url: resume/
   - title: "Portfolio"
-    url: portfolio/portfolio
+    url: portfolio/index.html
   - title: "Photography"
     url: photography/
   - title: "Blog"
