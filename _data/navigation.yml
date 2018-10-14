@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: home/
   - title: "Resume"
-    url: resume/
+    url: /doccs/Nikhil_Mettupally.pdf
   - title: "Portfolio"
     url: portfolio/index.html
   - title: "Photography"
