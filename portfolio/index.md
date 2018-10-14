@@ -1,9 +1,12 @@
 ---
-title: Portfolio
-layout: default
+layout: archive
+permalink: portfolio/
+title: "Research and Projects"
+author_profile: true
 ---
-
-<!DOCTYPE html>
+<!-- title: Portfolio
+layout: default -->
+<!-- <!DOCTYPE html> -->
 <html class="no-js">
   <head>
     <meta charset="UTF-8" />

@@ -13,7 +13,7 @@ main:
   - title: "Contact"
     url: contact-me/
   - title: "New portfolio"
-    url: portfolio/index.html
+    url: portfolio/index.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
