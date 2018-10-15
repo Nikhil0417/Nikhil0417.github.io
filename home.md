@@ -39,7 +39,7 @@ I had completed my undergraduate studies from Department of Electrical and Elect
     </tr>
     <tr>
         <td valign="top"><strong>[April 2018]</strong></td>
-        <td>My poster on <a href="https://cdm16608.contentdm.oclc.org/digital/collection/p16608coll24/id/313/rec/1">Comprehensive Parking Study at the University of Alabama in Huntsville using Airborne sensors</a> secured second place award in the Graduate Master's division at <a href="https://www.uah.edu/news/research/outstanding-student-researchers-recognized-at-uah-research-horizons-day">4th Annual Research Horizon Day, UAH</a>
+        <td>My poster on <a href="https://cdm16608.contentdm.oclc.org/digital/collection/p16608coll24/id/313/rec/1">Comprehensive Parking Study at the University of Alabama in Huntsville using Airborne sensors</a> secured first place award in the College of Science Graduate Division at <a href="https://www.uah.edu/news/research/outstanding-student-researchers-recognized-at-uah-research-horizons-day">4th Annual Research Horizon Day, UAH</a>
         </td>
     </tr>
     <tr>
