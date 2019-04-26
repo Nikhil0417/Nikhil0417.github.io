@@ -29,6 +29,10 @@ I had completed my undergraduate studies from Department of Electrical and Elect
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[March 2018]</strong></td>
+        <td>My research paper has been accepted into the <a href="http://sites.ieee.org/southeastcon2019/">IEEE Southeast Conference</a>.</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[October 2018]</strong></td>
         <td>My <a href="https://www.uah.edu/news/people/novel-space-detecting-algorithm-may-prove-to-be-a-panacea-for-parking-problems">research</a> has been featured on the University of Alabama in Huntsville's (UAH) website.</td>
     </tr>
