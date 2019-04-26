@@ -29,7 +29,7 @@ I had completed my undergraduate studies from Department of Electrical and Elect
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[March 2018]</strong></td>
+        <td valign="top"><strong>[March 2019]</strong></td>
         <td>My research paper has been accepted into the <a href="http://sites.ieee.org/southeastcon2019/">IEEE Southeast Conference</a>.</td>
     </tr>
     <tr>
@@ -51,7 +51,7 @@ I had completed my undergraduate studies from Department of Electrical and Elect
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[March 2017]</strong></td>
+        <td valign="top"><strong>[March 2018]</strong></td>
         <td>Checkout my latest poster, <a href="https://cdm16608.contentdm.oclc.org/digital/collection/p16608coll24/id/313/rec/1">Comprehensive Parking Study at the University of Alabama in Huntsville using Airborne sensors</a>.
         <!-- Github code available <a href="https://github.com/batra-mlp-lab/lang-emerge">here</a> -->
         </td>
