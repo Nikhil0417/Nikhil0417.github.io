@@ -14,8 +14,11 @@ comments: false
 
 {% include paginator.html %} -->
 
-I am currently a 2nd year Graduate Student at [Computer Science](https://www.uah.edu/science/departments/computer-science) department, [University of Alabama in Huntsville(UAH)](https://www.uah.edu/).
-My interests are in the core areas of Data Science and Deep Learning. I work with [Dr. Vineetha Menon](https://www.uah.edu/science/departments/computer-science/faculty-staff/vineetha-menon), in the field of Big Data Analytics, Data Mining and Machine Learning.
+I am a software engineer at Cisco working in the Hyperflex team.
+
+
+I hold a Masters Degree in Computer Science from [Computer Science](https://www.uah.edu/science/departments/computer-science) department, [University of Alabama in Huntsville(UAH)](https://www.uah.edu/).
+My interests are in the core areas of Data Science and Deep Learning. I worked with [Dr. Vineetha Menon](https://www.uah.edu/science/departments/computer-science/faculty-staff/vineetha-menon), in the field of Big Data Analytics, Data Mining and Machine Learning.
 I was awarded a Graduate Teaching Assistantship to pursue my degree and help undergraduate students with their course work focused
 on Programming concepts, Algorithms and Operating Systems.
 
@@ -28,6 +31,18 @@ I had completed my undergraduate studies from Department of Electrical and Elect
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[July 2019]</strong></td>
+        <td>Secured 2nd place in the CollabHacks Hackthon by Cisco for the project "Webex Spotlight"</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[April 2019]</strong></td>
+        <td>Presented my research paper in the IEEE SoutheatCon 2019</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[April 2019]</strong></td>
+        <td>Joined the Hyperflex team at Cisco as a Software Engineer</td>
+    </tr>
     <tr>
         <td valign="top"><strong>[March 2019]</strong></td>
         <td>My research paper has been accepted into the <a href="http://sites.ieee.org/southeastcon2019/">IEEE Southeast Conference</a>.</td>
@@ -150,6 +165,10 @@ I had completed my undergraduate studies from Department of Electrical and Elect
 <table align="center" class='affl-pic'>
     <tr>
         <td>
+            <a href="https://www.cisco.com/">
+            <img src="/images/Cisco-logo.png"></a>
+        </td>
+        <td>
             <a href="https://www.uah.edu/">
             <img src="/images/UAH_blueblk.png"></a>
         </td>
@@ -163,7 +182,8 @@ I had completed my undergraduate studies from Department of Electrical and Elect
         </td>
     </tr>
     <tr>
-        <td>University of Alabama in Huntsville<br>2016-present</td>
+        <td>Cisco<br>2019-Present</td>
+        <td>University of Alabama in Huntsville<br>2016-2018</td>
         <td>NOKIA<br>2015-2016</td>
         <td>BITS Pilani<br>2011-2015</td>
     </tr>

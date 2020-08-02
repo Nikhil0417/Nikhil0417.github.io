@@ -10,12 +10,12 @@ share: false
 **Nikhil Mettupally**
 ### Email:
 
-* *University email:* sm0143 [at] uah [dot] edu
+* *University email:* sm0143 [at] alumni [dot] uah [dot] edu
 * *Alternate email :* snc0417 [at] gmail [dot] com
 
 
-**Address:**  
+<!-- **Address:**  
 The Overlook Apartments,  
 1500 Sparkman Drive NW,  
 Apt #37A  
-Huntsville, AL - 35816
+Huntsville, AL - 35816 -->
