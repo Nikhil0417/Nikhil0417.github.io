@@ -103,8 +103,8 @@ author:
   name             : "Nikhil Mettupally"
   avatar           : "images/Display_Pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Student<br/> Department of Computer Science<br/>The University of Alabama in Huntsville"
-  location         : "Huntsville, AL"
-  email            : "sm0143@uah.edu"
+  location         : "San Francisco, CA"
+  email            : "snc0417@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :

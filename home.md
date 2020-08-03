@@ -165,7 +165,7 @@ I had completed my undergraduate studies from Department of Electrical and Elect
     <tr>
         <td>
             <a href="https://www.cisco.com/">
-            <img src="/images/Cisco-logo.png"></a>
+            <img src="/images/cisco_corporate_logo_blue2.jpg"></a>
         </td>
         <td>
             <a href="https://www.uah.edu/">
